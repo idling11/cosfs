@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/iterative/py-template",
+  "commit": "c4e24f909659b6ce9c34a1da631290f0c70ff2f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "cosfs",
+      "package_name": "cosfs",
+      "friendly_name": "Cosfs",
+      "author": "hanmiao.li",
+      "email": "hanmiao.li@clickzetta.com",
+      "github_user": "idling11",
+      "version": "2023.1.0",
+      "copyright_year": "2023",
+      "license": "Apache-2.0",
+      "docs": "True",
+      "short_description": "Fsspec filesystem for Tencent Cloud Object Storage System (COS)",
+      "development_status": "Development Status :: 1 - Planning",
+      "_template": "https://github.com/iterative/py-template"
+    }
+  },
+  "directory": null
+}
